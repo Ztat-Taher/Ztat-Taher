@@ -19,10 +19,14 @@ An Advanced Driver Assistance System designed to enhance driving safety with:
 - **Lane Departure Warning**, **Obstacle Detection**, and **Speed Limit Recognition**.
 - Technologies: **Python**, **OpenCV**, **YOLOv5**, **Raspberry Pi**, **Android Studio**.
 
-### 🔑 [Smart Doorbell System](https://github.com/ztat-taher/Smart-Doorbell)
-An IoT-based doorbell with:
-- **Facial Recognition**, **Real-time Alerts**, and **Servo Motor-Controlled Locking**.
-- Built using **ESP32-CAM**, **Raspberry Pi**, and **MQTT Protocol**.
+## **Smart Lock Project 🛡️**
+- 🔒 **Overview**: A cutting-edge IoT-based locking system combining facial recognition, motion detection, and remote control for enhanced security.  
+- 🛠️ **Tech Stack**: ESP32, Python, OpenCV, MQTT Protocol.  
+- 🌐 **Features**: Real-time video streaming, motion-triggered alerts, personalized facial recognition, and smart locking/unlocking via MQTT.  
+- 🎯 **Highlights**:  
+  . Robust access control system.  
+  . Modular and scalable for smart home integration.  
+  . Blends IoT with advanced computer vision.  
 
 ### 📱 [Fitness Tracker Web App](https://github.com/ztat-taher/Fitness-Tracker)
 A wellness app designed to empower users in managing their fitness journey.  
@@ -44,16 +48,15 @@ A full-featured hotel booking website with separate client and admin dashboards.
 ---
 
 ## 📈 **GitHub Stats**
-![Ztat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ztat-taher&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ztat-taher&layout=compact&theme=radical)
+![Ztat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ztat-taher&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ztat-taher&layout=compact&theme=radical)
 
 ---
 
 ## 🛠️ **Technologies & Tools**
-- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, PHP, SQL, .
-- **Mobile Development:** Android Studio, React Native.
+- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, PHP, SQL, Dart.
+- **Mobile Development:** Android Studio, Flutter.
 - **Web Development:** React.js, Angular, SpringBoot, Bootstrap, REST APIs, HTML, CSS,.
-- **IoT Systems:** Raspberry Pi, ESP32, Arduino IDE.
+- **IoT Systems:** Raspberry Pi, ESP32, Arduino.
 - **AI/ML Tools:** OpenCV, YOLOv5, Haar Cascades.
 
 ---
