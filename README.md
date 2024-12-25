@@ -48,7 +48,9 @@ A full-featured hotel booking website with separate client and admin dashboards.
 ---
 
 ## 📈 **GitHub Stats**
+<table><tr><td valign="center">
 ![Ztat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ztat-taher&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ztat-taher&layout=compact&theme=radical)
+</td></tr></table>
 
 ---
 
