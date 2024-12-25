@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate third-year student in Embedded Sy
 
 ## 🛠️ **About Me**
 - 🔧 Skilled in **Python**, **OpenCV**, **Android Studio**, **Raspberry Pi**, and **IoT systems**.
-- 🚀 Currently working on **ADAS systems**, **Fitness Tracker Web Apps**, and **Smart Doorbell Projects**.
+- 🚀 Currently working on **ADAS systems**, **Fitness Tracker Web App**, and **Smart Lock Project**.
 - 🌱 Always learning, exploring, and refining my skills in AI, computer vision, and mobile app development.
 - 🎨 Active community member with a passion for combining technology and creativity.
 
@@ -19,7 +19,7 @@ An Advanced Driver Assistance System designed to enhance driving safety with:
 - **Lane Departure Warning**, **Obstacle Detection**, and **Speed Limit Recognition**.
 - Technologies: **Python**, **OpenCV**, **YOLOv5**, **Raspberry Pi**, **Android Studio**.
 
-## **Smart Lock Project 🛡️**
+## 🛡️ [Smart Lock](https://github.com/Ztat-Taher/Smart-Lock)
 - 🔒 **Overview**: A cutting-edge IoT-based locking system combining facial recognition, motion detection, and remote control for enhanced security.  
 - 🛠️ **Tech Stack**: ESP32, Python, OpenCV, MQTT Protocol.  
 - 🌐 **Features**: Real-time video streaming, motion-triggered alerts, personalized facial recognition, and smart locking/unlocking via MQTT.  
