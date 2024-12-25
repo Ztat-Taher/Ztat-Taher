@@ -19,7 +19,7 @@ An Advanced Driver Assistance System designed to enhance driving safety with:
 - **Lane Departure Warning**, **Obstacle Detection**, and **Speed Limit Recognition**.
 - Technologies: **Python**, **OpenCV**, **YOLOv5**, **Raspberry Pi**, **Android Studio**.
 
-## 🛡️ [Smart Lock](https://github.com/Ztat-Taher/Smart-Lock)
+### 🛡️ [Smart Lock](https://github.com/Ztat-Taher/Smart-Lock)
 - 🔒 **Overview**: A cutting-edge IoT-based locking system combining facial recognition, motion detection, and remote control for enhanced security.  
 - 🛠️ **Tech Stack**: ESP32, Python, OpenCV, MQTT Protocol.  
 - 🌐 **Features**: Real-time video streaming, motion-triggered alerts, personalized facial recognition, and smart locking/unlocking via MQTT.  
